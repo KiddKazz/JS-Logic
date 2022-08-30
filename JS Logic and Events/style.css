@@ -1,0 +1,26 @@
+body{
+    background-color: lightgreen;
+    margin: auto;
+    text-align: center;
+}
+#button1{
+    border-radius: 0;
+    background-color: red;
+    color: yellow;
+    border: gainsboro 2px groove;
+}
+#button2 {
+    background-color: orange;
+    color: white;
+    border: gainsboro 2px groove;
+}
+#button3 {
+    background-color: blue;
+    color:white;
+    border: gainsboro 2px groove;
+}
+#button4 {
+    background-color:green;
+    color: white;
+    border: gainsboro 2px groove;
+}
